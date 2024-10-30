@@ -41,5 +41,5 @@ Fique à vontade para entrar em contato e compartilhar ideias sobre dados, visua
 </div>
 
 
-![Snake animation](https://github.com/EduTremea/EduTremea/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/EduTremea/blob/output/github-contribution-grid-snake.svg)
 
