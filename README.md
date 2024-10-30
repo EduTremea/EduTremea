@@ -40,6 +40,3 @@ Fique à vontade para entrar em contato e compartilhar ideias sobre dados, visua
 <a href="https://www.linkedin.com/in/luiz-eduardo-trem%C3%A9a-889587234/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
-![Snake animation](https://github.com/EduTremea/blob/output/github-contribution-grid-snake.svg)
-
