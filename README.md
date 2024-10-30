@@ -6,9 +6,9 @@
 
 
 # Luiz Eduardo Treméa 👋
-Idade: 22 anos
-Cargo: Analista de Suporte 🖥️
-Interesses: Banco de Dados 📊, Python 🐍, Análise de Dados 📈
+<p>Idade: 22 anos
+<p>Cargo: Analista de Suporte 🖥️
+<p>Interesses: Banco de Dados 📊, Python 🐍, Análise de Dados 📈
 
 # Sobre mim
 Sou um analista de suporte apaixonado por dados e pela parte visual do negócio. Como desenvolvedor iniciante, estou me aprofundando em Python e análise de dados, com um interesse especial em transformar informações em visualizações claras e intuitivas. Gosto de explorar como os dados podem contar histórias e gerar insights que impactam as decisões de negócio. 🚀
@@ -18,8 +18,8 @@ Atualmente, atuo como Analista de Suporte na Comercial Zaffari, uma empresa de v
 
 # Minhas atividades incluem:
 **Suporte aos setores comerciais:** Auxílio nas demandas desses setores, envolvendo análise de dados, processos e resolução de problemas.
-\n**Criação de Dashboards:** Uso do software Metabase para criar dashboards interativos e informativos, trazendo dados diretamente do service desk GLPI.
-\n**Análise de Erros:** Utilizo PLSQL para identificar e solucionar erros, garantindo o fluxo correto da demanda do usuários.
+**Criação de Dashboards:** Uso do software Metabase para criar dashboards interativos e informativos, trazendo dados diretamente do service desk GLPI.
+**Análise de Erros:** Utilizo PLSQL para identificar e solucionar erros, garantindo o fluxo correto da demanda do usuários.
 
 # Competências
 **Python 🐍:** Em constante aprendizado e prática, focado em análise de dados.
