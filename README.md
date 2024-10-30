@@ -18,25 +18,25 @@ Atualmente, atuo como Analista de Suporte na Comercial Zaffari, uma empresa de v
 
 # Minhas atividades incluem:
 **Suporte aos setores comerciais:** Auxílio nas demandas desses setores, envolvendo análise de dados, processos e resolução de problemas.
-*Criação de Dashboards:* Uso do software Metabase para criar dashboards interativos e informativos, trazendo dados diretamente do service desk GLPI.
-*Análise de Erros:* Utilizo PLSQL para identificar e solucionar erros, garantindo o fluxo correto da demanda do usuários.
+\n**Criação de Dashboards:** Uso do software Metabase para criar dashboards interativos e informativos, trazendo dados diretamente do service desk GLPI.
+\n**Análise de Erros:** Utilizo PLSQL para identificar e solucionar erros, garantindo o fluxo correto da demanda do usuários.
 
 # Competências
-Python 🐍: Em constante aprendizado e prática, focado em análise de dados.
-Banco de Dados 💾: Curioso e dedicado a explorar a organização e manipulação de dados.
-Visualização de Dados 📊: Experiência com Metabase para criar representações visuais acessíveis e informativas.
-Objetivos 🎯
+**Python 🐍:** Em constante aprendizado e prática, focado em análise de dados.
+**Banco de Dados 💾:** Curioso e dedicado a explorar a organização e manipulação de dados.
+**Visualização de Dados 📊:** Experiência com Metabase para criar representações visuais acessíveis e informativas.
+
+#Objetivos 🎯
 Busco aprimorar minhas habilidades para me tornar um especialista em dados e contribuir para projetos que usem a análise de dados para resolver problemas reais.
 
-Vamos nos conectar! 🌐
+#Vamos nos conectar! 🌐
 Fique à vontade para entrar em contato e compartilhar ideias sobre dados, visualizações e Python!
 
 
-## Contatos:
+# Contatos:
 
 <div>
 <a href="https://www.instagram.com/edu.tremea/?hl=pt-br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luiz-eduardo-trem%C3%A9a-889587234/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/EduTremea/blob/output/github-contribution-grid-snake.svg)
