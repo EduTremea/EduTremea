@@ -22,14 +22,14 @@ Atualmente, atuo como Analista de Suporte na Comercial Zaffari, uma empresa de v
 **Análise de Erros:** Utilizo PLSQL para identificar e solucionar erros, garantindo o fluxo correto da demanda do usuários.
 
 # Competências
-**Python 🐍:** Em constante aprendizado e prática, focado em análise de dados.
-**Banco de Dados 💾:** Curioso e dedicado a explorar a organização e manipulação de dados.
-**Visualização de Dados 📊:** Experiência com Metabase para criar representações visuais acessíveis e informativas.
+<p>**Python 🐍:** Em constante aprendizado e prática, focado em análise de dados.
+<p>**Banco de Dados 💾:** Curioso e dedicado a explorar a organização e manipulação de dados.
+<p>**Visualização de Dados 📊:** Experiência com Metabase para criar representações visuais acessíveis e informativas.
 
-#Objetivos 🎯
+# Objetivos 🎯
 Busco aprimorar minhas habilidades para me tornar um especialista em dados e contribuir para projetos que usem a análise de dados para resolver problemas reais.
 
-#Vamos nos conectar! 🌐
+# Vamos nos conectar! 🌐
 Fique à vontade para entrar em contato e compartilhar ideias sobre dados, visualizações e Python!
 
 
