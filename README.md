@@ -17,7 +17,7 @@ Sou um analista de suporte apaixonado por dados e pela parte visual do negócio.
 Atualmente, atuo como Analista de Suporte na Comercial Zaffari, uma empresa de varejo no Rio Grande do Sul. 
 
 # Minhas atividades incluem:
-*Suporte aos setores comerciais:* Auxílio nas demandas desses setores, envolvendo análise de dados, processos e resolução de problemas.
+**Suporte aos setores comerciais:** Auxílio nas demandas desses setores, envolvendo análise de dados, processos e resolução de problemas.
 *Criação de Dashboards:* Uso do software Metabase para criar dashboards interativos e informativos, trazendo dados diretamente do service desk GLPI.
 *Análise de Erros:* Utilizo PLSQL para identificar e solucionar erros, garantindo o fluxo correto da demanda do usuários.
 
