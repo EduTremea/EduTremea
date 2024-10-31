@@ -9,7 +9,7 @@
 <p>Cargo: Analista de Suporte 🖥️
 <p>Interesses: Banco de Dados 📊, Python 🐍, Análise de Dados 📈, FrontEnd 🖥️
 
-![Descrição do GIF](https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif)
+![dev](https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif)
 
 
 # Sobre mim
