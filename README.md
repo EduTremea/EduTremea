@@ -41,4 +41,3 @@ Fique à vontade para entrar em contato e compartilhar ideias sobre dados, visua
 </div>
 
 <div class="tenor-gif-embed" data-postid="16436026" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/science-math-analytics-technology-nick-zetta-gif-16436026">Science Math GIF</a>from <a href="https://tenor.com/search/science-gifs">Science GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
