@@ -9,11 +9,12 @@
 <p>Cargo: Analista de Suporte 🖥️
 <p>Interesses: Banco de Dados 📊, Python 🐍, Análise de Dados 📈, FrontEnd 🖥️
 
-![dev](https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif)
-
 
 # Sobre mim
 Sou um analista de suporte apaixonado por dados e pela parte visual do negócio. Como desenvolvedor iniciante, estou me aprofundando em Python e análise de dados, com um interesse especial em transformar informações em visualizações claras e intuitivas. Gosto de explorar como os dados podem contar histórias e gerar insights que impactam as decisões de negócio. 🚀
+
+![dev](https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif)
+
 
 # Experiência
 Atualmente, atuo como Analista de Suporte na Comercial Zaffari, uma empresa de varejo no Rio Grande do Sul. 
