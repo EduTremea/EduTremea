@@ -4,9 +4,6 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EduTremea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Descrição do GIF](https://media1.tenor.com/m/lvLaG5hPCncAAAAd/data-analysis.gif)
-
-
 # Luiz Eduardo Treméa 👋
 <p>Idade: 22 anos
 <p>Cargo: Analista de Suporte 🖥️
@@ -30,6 +27,8 @@ Atualmente, atuo como Analista de Suporte na Comercial Zaffari, uma empresa de v
 
 # Objetivos 🎯
 Busco aprimorar minhas habilidades para me tornar um especialista em dados e contribuir para projetos que usem a análise de dados para resolver problemas reais.
+
+![Descrição do GIF](https://media1.tenor.com/m/lvLaG5hPCncAAAAd/data-analysis.gif)
 
 # Vamos nos conectar! 🌐
 Fique à vontade para entrar em contato e compartilhar ideias sobre dados, visualizações e Python!
