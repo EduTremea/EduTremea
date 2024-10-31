@@ -40,8 +40,13 @@ Fique à vontade para entrar em contato e compartilhar ideias sobre dados, visua
 # Contatos:
 
 <div>
-<a href="https://www.instagram.com/edu.tremea/?hl=pt-br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luiz-eduardo-trem%C3%A9a-889587234/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.instagram.com/edu.tremea/?hl=pt-br" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/luiz-eduardo-trem%C3%A9a-889587234/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
+
 
 
