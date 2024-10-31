@@ -4,6 +4,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EduTremea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+<div class="tenor-gif-embed" data-postid="16436026" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/science-math-analytics-technology-nick-zetta-gif-16436026">Science Math GIF</a>from <a href="https://tenor.com/search/science-gifs">Science GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 # Luiz Eduardo Treméa 👋
 <p>Idade: 22 anos
@@ -40,4 +41,4 @@ Fique à vontade para entrar em contato e compartilhar ideias sobre dados, visua
 <a href="https://www.linkedin.com/in/luiz-eduardo-trem%C3%A9a-889587234/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div class="tenor-gif-embed" data-postid="16436026" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/science-math-analytics-technology-nick-zetta-gif-16436026">Science Math GIF</a>from <a href="https://tenor.com/search/science-gifs">Science GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
