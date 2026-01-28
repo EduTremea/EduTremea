@@ -1,5 +1,5 @@
 # Luiz Eduardo Treméa 👋
-<p>Idade: 22 anos
+<p>Idade: 24 anos
 <p>Cargo: Analista de Suporte 🖥️
 <p>Interesses: Banco de Dados 📊, Python 🐍, Análise de Dados 📈, FrontEnd 🖥️
 
